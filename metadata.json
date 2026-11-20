@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Native Android personal AI assistant with Gemini function calling, voice interaction, offline wake-word detection, accessibility automation, device controls, local memory, and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

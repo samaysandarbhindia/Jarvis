@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_label">JARVIS Automation Engine</string>
+    <string name="accessibility_service_description">Enables JARVIS to inspect screen elements, click buttons, enter search queries, and scroll inside supported apps when you explicitly command an automation workflow. Password fields and protected security screens are never inspected.</string>
+    <string name="notification_listener_label">JARVIS Notification Reader</string>
+    <string name="wake_word_channel_name">JARVIS Voice Activation</string>
+    <string name="wake_word_channel_description">Keeps local microphone voice activation active when explicitly enabled by the user.</string>
+    <string name="reminder_channel_name">JARVIS Reminders</string>
+    <string name="reminder_channel_description">Scheduled reminders and alerts created through JARVIS.</string>
+    <string name="default_greeting">Good day, sir. JARVIS is online. How may I assist you?</string>
+    <string name="wake_greeting">Yes, sir. How may I help you?</string>
+</resources>
